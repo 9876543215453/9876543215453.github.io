@@ -1,0 +1,239 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+    background: -webkit-radial-gradient(black 15%, transparent 16%) 0 0, radial-gradient(black 15%, transparent 16%) 8px 8px, radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 0 1px, radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 8px 9px;
+    background: -moz-radial-gradient(black 15%, transparent 16%) 0 0, radial-gradient(black 15%, transparent 16%) 8px 8px, radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 0 1px, radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 8px 9px;
+    background: -o-radial-gradient(black 15%, transparent 16%) 0 0, radial-gradient(black 15%, transparent 16%) 8px 8px, radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 0 1px, radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 8px 9px;
+    background: -ms-radial-gradient(black 15%, transparent 16%) 0 0, radial-gradient(black 15%, transparent 16%) 8px 8px, radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 0 1px, radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 8px 9px;
+    background: radial-gradient(black 15%, transparent 16%) 0 0, radial-gradient(black 15%, transparent 16%) 8px 8px, radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 0 1px, radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 8px 9px;
+    background-color: #282828;
+
+    -webkit-background-size: 16px 16px;
+    -moz-background-size: 16px 16px;
+    background-size: 16px 16px;
+}
+
+a,
+a:focus {color: #FF6633;}
+a:hover {color: #A1A1A1; text-decoration: none;}
+
+.navbar {
+	background-color: #000000;
+	border-color: #777;
+	font-family: 'Orbitron', sans-serif;
+	margin-bottom: 0px;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+    color: #FF6633;
+    background-color: #000000;
+}
+
+.navbar-default .navbar-brand {
+    color: #ffffff;
+}
+
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:focus, .navbar-default .navbar-nav > .open > a:hover {
+    color: #777;
+    background-color: #000000;
+}
+
+.dropdown-menu {
+    background-color: #000000;
+    border: 1px solid #777;
+    color: #777;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.dropdown-menu > li > a:focus, .dropdown-menu > li > a:hover {
+    color: #333;
+    background-color: #000000;
+}
+
+.dropdown-menu > li > a {
+    color: #777;
+}
+
+.dropdown-menu > .active > a, .dropdown-menu > .active > a:focus, .dropdown-menu > .active > a:hover {
+    color: #FF6633;
+    text-decoration: none;
+    background-color: transparent;
+    outline: 0px none;
+}
+
+.mainlogo {
+    padding-top:2px;
+	padding-bottom:2px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Orbitron', sans-serif;
+}
+
+h1 {
+	color: #FF6633;
+}
+
+p {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+}
+
+.weltmachen {
+	font-family: 'Orbitron', sans-serif;
+}
+
+i {
+	font-size: 45px;
+}
+
+.share {
+	font-size: 30px;
+	margin: 10px;
+}
+
+.fb {
+	font-size: 14px;
+}
+
+.oran {color: #FF6633;}
+
+.lft {
+	float:left;
+}
+
+.rght {
+	float:right;
+}
+
+.start {
+	color: #ffffff;
+	background-color: #000000;
+}
+
+.x {
+	background-color: #000000;
+	color: #ffffff;
+}
+
+.black {
+	color:#000000;
+}
+
+.c-text {
+	background-color: #ffffff;
+}
+
+.btn-coach {
+	border-color:#FF6633;
+}
+
+.btn-blog {
+	border-color:#FF6633;
+	color: #ffffff;
+}
+	
+.footer {
+	color: #ffffff;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	text-align: center;
+}
+
+.btn-imp {
+    color: #777;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.cursor {cursor:pointer;}
+
+.well {
+    border: 1px solid #FF6633;
+    
+	background: -webkit-radial-gradient(black 15%, transparent 16%) 0 0, radial-gradient(black 15%, transparent 16%) 8px 8px, radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 0 1px, radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 8px 9px;
+    background: -moz-radial-gradient(black 15%, transparent 16%) 0 0, radial-gradient(black 15%, transparent 16%) 8px 8px, radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 0 1px, radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 8px 9px;
+    background: -o-radial-gradient(black 15%, transparent 16%) 0 0, radial-gradient(black 15%, transparent 16%) 8px 8px, radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 0 1px, radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 8px 9px;
+    background: -ms-radial-gradient(black 15%, transparent 16%) 0 0, radial-gradient(black 15%, transparent 16%) 8px 8px, radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 0 1px, radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 8px 9px;
+    background: radial-gradient(black 15%, transparent 16%) 0 0, radial-gradient(black 15%, transparent 16%) 8px 8px, radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 0 1px, radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 8px 9px;
+    background-color: #282828;
+
+    -webkit-background-size: 16px 16px;
+    -moz-background-size: 16px 16px;
+    background-size: 16px 16px;
+	
+	color:#FFFFFF;
+}
+
+.dl-horizontal dt {
+    width: 100px;
+    text-align: left;
+	font-size: 16px;
+}
+
+.dl-horizontal dd {
+    margin-left: 140px;
+	font-size: 16px;
+}
+
+.arrow_box_top {
+	position: relative;
+	background: #000000;
+}
+.arrow_box_top:after {
+	top: 100%;
+	left: 50%;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+	border-color: rgba(0, 0, 0, 0);
+	border-top-color: #000000;
+	border-width: 30px;
+	margin-left: -30px;
+}
+
+.arrow_box_top_orange {
+	position: relative;
+	background: #FF6633;
+}
+.arrow_box_top_orange:after {
+	top: 100%;
+	left: 50%;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+	border-color: rgba(0, 0, 0, 0);
+	border-top-color: #FF6633;
+	border-width: 30px;
+	margin-left: -30px;
+}
+
+.arrow_box_bottom {
+	position: relative;
+	background: #ffffff;
+}
+.arrow_box_bottom:after {
+	top: 100%;
+	left: 50%;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+	border-color: rgba(255, 255, 255, 0);
+	border-top-color: #ffffff;
+	border-width: 30px;
+	margin-left: -30px;
+}
+
+@media (max-width: 991px) {
+  .navbar-left {
+    display: none;
+  }
+}
