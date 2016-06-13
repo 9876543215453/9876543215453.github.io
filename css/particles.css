@@ -10,6 +10,7 @@ html,body{
   height:100%;
   background:#000000;
   font-family: 'Open Sans', sans-serif;
+  text-shadow: 0 0 5px #000,0 0 5px #000,0 0 5px #000,0 0 5px #000,0 0 5px #000,0 0 5px #000,0 0 5px #000;
 }
 
 html{
@@ -62,11 +63,12 @@ p {
 }
 
 .btn-enter {
-    border: 1px solid #FFFFFF;
+  border: 1px solid #FFFFFF;
 }
 
 .btn:hover {
 	border: 1px solid #FF6633;
+  color: #FF6633;
 }
 
 .panel {
