@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: /daten.html
-Disallow: /impressum.html
-Disallow: /img/
