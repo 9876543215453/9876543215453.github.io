@@ -46,6 +46,7 @@ a:hover {color: #FF6633; text-decoration: none;}
 
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Share Tech Mono';
+	font-weight: 400;
 	text-align: center;
 	color: #FF6633;
 }
