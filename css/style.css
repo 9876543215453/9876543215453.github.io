@@ -44,6 +44,8 @@ a,
 a:focus {color: #ffffff;}
 a:hover {color: #FF6633; text-decoration: none;}
 
+a { cursor: pointer; cursor: hand; }
+
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Share Tech Mono';
 	font-weight: 400;
