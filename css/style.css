@@ -40,6 +40,20 @@ canvas {
 	transform: translate(-50%,-50%);
  }
 
+
+i {
+	color: #FF6633;
+}
+
+#panel i {
+	color: #fff;
+}
+
+
+#panel i:hover {
+	color: #FF6633;
+}
+
 a,
 a:focus {color: #ffffff;}
 a:hover {color: #FF6633; text-decoration: none;}
@@ -72,9 +86,6 @@ p {
 	padding-bottom: 100px;
 }
 
-i {
-	color: #FF6633;
-}
 
 .footer {
 	text-align: center;
