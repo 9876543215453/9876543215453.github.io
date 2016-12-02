@@ -1,0 +1,144 @@
+/*
+web design by d/sci/gn
+www.dscign.com
+*/
+
+html,body { 
+	width:100%;
+	height:100%;
+	background:#1C1C1C;
+	font-family: 'Titillium Web', sans-serif;
+	font-weight: 400;
+	color: #777;
+	font-size: 16px;
+}
+
+canvas {
+	display:block;
+	vertical-align:bottom;
+}
+
+#particles-js {
+	width: 100%;
+	height: 100%;
+	background-color: #333;
+	background-image: url('');
+	background-size: cover;
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+}
+
+.panel {
+	position: absolute;
+	width:100%;
+	height:auto;
+	background-color:transparent;
+	text-align: center;
+	padding-top:0px;
+	top:50%;
+	left:50%;
+	transform: translate(-50%,-50%);
+	margin-bottom: 0px;
+    border: 0px solid transparent;
+    border-radius: 4px;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+
+i {
+	color: #FF6633;
+}
+
+#panel i {
+	color: #777;
+}
+
+
+#panel i:hover {
+	color: #FF6633;
+}
+
+a,
+a:focus {color: #ffffff;}
+a:hover {color: #FF6633; text-decoration: none;}
+
+a { cursor: pointer; cursor: hand; }
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Share Tech Mono';
+	font-weight: 400;
+	text-align: center;
+	color: #FF6633;
+}
+
+p {
+	font-size: 18px;
+	color: #fff;
+}
+
+.weltmachen {
+	font-family: 'Share Tech Mono';
+}
+
+.oran {
+	font-family: 'Share Tech Mono';
+	color: #FF6633;
+}
+
+.x {
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+
+.footer {
+	text-align: center;
+	background-color: #000;
+	padding-top: 100px;
+	padding-bottom: 10px;
+}
+
+.well {
+    min-height: 20px;
+    padding: 15px;
+    padding-bottom: 10px;
+    margin-bottom: 0px;
+    background-color: transparent;
+    border: 1px solid #fff;
+    border-radius: 4px;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    margin-top: 15px;
+}
+
+blockquote {
+    border-left: 5px solid #777;
+}
+
+.btn-ref, .btn-x {
+	background-color: transparent;
+	color: #fff;
+	border-color: #fff;
+}
+
+.btn-ref:focus, .btn-x:focus {
+	background-color: transparent;
+	color: #fff;
+}
+
+.btn-ref:hover, .btn-x:hover {
+	background-color: rgba(255,255,255,.2);
+	color: #fff;
+}
+
+.btn {
+	-webkit-transition-duration: 0.4s;
+	transition-duration: 0.4s;
+}
+
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  body {
+    overflow-x: hidden;
+  }
+}
